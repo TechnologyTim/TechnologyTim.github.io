@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Space+Mono&display=swap');
+
 body {
   background-color: #282a36;
 }
@@ -21,7 +23,7 @@ nav {
 }
 
 a {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: large;
   color: #bd93f9;
   text-decoration: none;
@@ -33,7 +35,7 @@ a:hover {
 }
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 3em;
   color: #bd93f9;
   padding: 1em;
@@ -42,7 +44,7 @@ h1 {
 
 p {
   color: #bd93f9;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: large;
   padding-left: 3em;
 }
@@ -65,7 +67,7 @@ footer {
 .links {
   display: flex;
   flex-direction: column;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Slab', serif;
   margin: 1em;
   padding-top: 0em;
   font-weight: bold;
