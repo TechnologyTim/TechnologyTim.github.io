@@ -16,6 +16,10 @@ nav {
   font-weight: bold;
 }
 
+#active {
+  color: #ff79c6;
+}
+
 a {
   font-family: Arial, Helvetica, sans-serif;
   font-size: large;
@@ -39,8 +43,8 @@ h1 {
 p {
   color: #bd93f9;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: large;
-  padding-left: 3em;
+  font-size: 1.5em;
+  padding-left: 2em;
 }
 
 footer {
@@ -53,6 +57,20 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   background-color: #44475a;
+  color: #bd93f9;
   border-radius: 15px;
   text-align: center;
+}
+
+.downloads {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 1em;
+  padding-top: 0em;
+  font-weight: bold;
+}
+
+#download {
+  font-size: 2em;
 }

@@ -11,6 +11,10 @@ nav {
   border-radius: 20px;
 }
 
+#active {
+  color: #ff79c6;
+}
+
 .navheading {
   font-size: 1.5em;
   font-weight: bold;
@@ -39,8 +43,8 @@ h1 {
 p {
   color: #bd93f9;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: large;
-  padding-left: 3em;
+  font-size: 1.5em;
+  padding-left: 2em;
 }
 
 footer {
@@ -53,6 +57,7 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   background-color: #44475a;
+  color: #bd93f9;
   border-radius: 15px;
   text-align: center;
 }
