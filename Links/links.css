@@ -36,9 +36,9 @@ a:hover {
 
 h1 {
   font-family: 'Roboto Slab', serif;
-  font-size: 2em;
+  font-size: 3em;
   color: #bd93f9;
-  padding: 1em;
+  padding: 0.5em;
   padding-bottom: 0.5em;
 }
 
@@ -74,5 +74,5 @@ footer {
 }
 
 #link {
-  font-size: 1em;
+  font-size: 2em;
 }
