@@ -30,6 +30,12 @@ a {
   padding: 1em;
 }
 
+#JBLink{
+  font-size: 1em;
+  padding: 0em;
+  margin: 0em;
+}
+
 a:hover {
   color: #ff79c6;
 }
